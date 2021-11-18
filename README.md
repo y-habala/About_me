@@ -3,9 +3,7 @@
 I am fronted developer . <br />
 I work remotely and like to travel a lot. 
 
-<a href="https://www.youtube.com/c/acodingnomad">
-  <img align="left" alt="A Coding Nomad YouTube channel" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a> 
+
 <br />
 
 #### Languages and tools I work with:
