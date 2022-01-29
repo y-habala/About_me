@@ -1,9 +1,9 @@
 ### Hi, I'm Youssef  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am fronted developer . <br />
+I am CEO & developer . <br />
 I work remotely and like to travel a lot. 
 
-<a href="https://www.youtube.com/c/acodingnomad">
+<a href="https://www.youtube.com/c/youssefhabala">
   <img align="left" alt="A Coding Nomad YouTube channel" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a> 
 <br />
